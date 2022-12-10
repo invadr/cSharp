@@ -1,0 +1,15 @@
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.csproj.AssemblyReference.cache
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.AssemblyInfoInputs.cache
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.AssemblyInfo.cs
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.csproj.CoreCompileInputs.cache
+C:\Archive\Code\cSharp\chapterOneCSPG\bin\Debug\net6.0\chapterOneCSPG.exe
+C:\Archive\Code\cSharp\chapterOneCSPG\bin\Debug\net6.0\chapterOneCSPG.deps.json
+C:\Archive\Code\cSharp\chapterOneCSPG\bin\Debug\net6.0\chapterOneCSPG.runtimeconfig.json
+C:\Archive\Code\cSharp\chapterOneCSPG\bin\Debug\net6.0\chapterOneCSPG.dll
+C:\Archive\Code\cSharp\chapterOneCSPG\bin\Debug\net6.0\chapterOneCSPG.pdb
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.dll
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\refint\chapterOneCSPG.dll
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.pdb
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\chapterOneCSPG.genruntimeconfig.cache
+C:\Archive\Code\cSharp\chapterOneCSPG\obj\Debug\net6.0\ref\chapterOneCSPG.dll
