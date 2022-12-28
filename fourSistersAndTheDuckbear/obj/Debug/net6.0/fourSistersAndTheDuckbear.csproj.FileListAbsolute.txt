@@ -1,0 +1,15 @@
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\bin\Debug\net6.0\fourSistersAndTheDuckbear.exe
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\bin\Debug\net6.0\fourSistersAndTheDuckbear.deps.json
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\bin\Debug\net6.0\fourSistersAndTheDuckbear.runtimeconfig.json
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\bin\Debug\net6.0\fourSistersAndTheDuckbear.dll
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\bin\Debug\net6.0\fourSistersAndTheDuckbear.pdb
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.csproj.AssemblyReference.cache
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.dll
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\refint\fourSistersAndTheDuckbear.dll
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.pdb
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\fourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Archive\Code\cSharp\fourSistersAndTheDuckbear\obj\Debug\net6.0\ref\fourSistersAndTheDuckbear.dll
