@@ -1,0 +1,15 @@
+C:\Archive\Code\cSharp\theDominionOfKings\bin\Debug\net6.0\theDominionOfKings.exe
+C:\Archive\Code\cSharp\theDominionOfKings\bin\Debug\net6.0\theDominionOfKings.deps.json
+C:\Archive\Code\cSharp\theDominionOfKings\bin\Debug\net6.0\theDominionOfKings.runtimeconfig.json
+C:\Archive\Code\cSharp\theDominionOfKings\bin\Debug\net6.0\theDominionOfKings.dll
+C:\Archive\Code\cSharp\theDominionOfKings\bin\Debug\net6.0\theDominionOfKings.pdb
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.csproj.AssemblyReference.cache
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.AssemblyInfoInputs.cache
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.AssemblyInfo.cs
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.dll
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\refint\theDominionOfKings.dll
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.pdb
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\theDominionOfKings.genruntimeconfig.cache
+C:\Archive\Code\cSharp\theDominionOfKings\obj\Debug\net6.0\ref\theDominionOfKings.dll
